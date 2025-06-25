@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Aerospace Manufacturing.<br>🌱 I’m currently studying for the CySA+ exam.<br>💬 Ask me about Cybersecurity tools or anything tech-related.<br>👉 My personal website: https://the-jeffrey.com/<br>⚡ Fun fact: I am in a band called This Is The Storm.<br>🎼 https://linktr.ee/thisisthestormband
+🔭 I’m currently working as an Infrastructure Security Engineer<br>🌱 I’m currently studying for the ISC2 SSCP exam<br>💬 Ask me about Cybersecurity tools or anything tech-related<br>👉 My personal website: https://the-jeffrey.com/<br>⚡ Fun fact: I am in a band called This Is The Storm<br>🎼 https://linktr.ee/thisisthestormband
 
 
 ## 🌐 Socials:
