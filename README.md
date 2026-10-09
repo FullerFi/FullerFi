@@ -60,12 +60,17 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FullerFi&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullerFi&theme=tokyonight&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=FullerFi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=FullerFi&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FullerFi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=FullerFi&theme=tokyonight&hide_border=true" />
+</p>
+
+#### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FullerFi/FullerFi/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
